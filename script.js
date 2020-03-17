@@ -11,7 +11,7 @@
     //3. creating text tag
     var span = document.createElement('label');
     span.className = "newText";
-     console.log(span.className);
+    
     
     //4. Creating delete button
     var del = document.createElement('button');
