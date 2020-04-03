@@ -9,4 +9,6 @@ After the completion of the task you can tick the checkbox or delete the task if
 
 You can use reset button to clear all the task and set new task for the day.
 
+Demo: https://shovaaa.github.io/todolistjs/
+
 ![](images/todolist-screenshot.png)
