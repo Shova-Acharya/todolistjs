@@ -1,4 +1,5 @@
  function todoList(){ 
+     
     //1. Creating a new Div
     var newDiv = document.createElement('div');
     newDiv.id = "newTask";
@@ -15,6 +16,7 @@
     
     //4. Creating delete button
     var del = document.createElement('button');
+    del.className ="delButton"
     del.innerHTML = "Delete"
     del.onclick = function(){
         var remove = document.activeElement.parentElement;
